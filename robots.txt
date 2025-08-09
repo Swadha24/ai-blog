@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourname-ai.netlify.app/sitemap.xml
+Sitemap: https://ai-blogpost.netlify.app/sitemap.xml
